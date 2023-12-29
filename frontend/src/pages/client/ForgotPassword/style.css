@@ -1,0 +1,13 @@
+/* custom.css */
+.bg-custom-pink {
+    background-color: #d23f57; /* Màu hồng tùy chỉnh */
+}
+.bg-custom-pink:hover {
+    background-color: #c81835; /* Màu hồng tùy chỉnh */
+}
+.br {
+    border: 1px solid rgb(186, 185, 185);
+}
+.br:hover {
+    border: 1px solid rgb(91, 90, 90);
+}
